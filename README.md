@@ -11,7 +11,13 @@ size_categories:
 ---
 
 This is the official code for **[HistRED: A Historical Document-Level Relation Extraction Dataset](https://aclanthology.org/2023.acl-long.180/)** (ACL 2023 Long paper, [arXiv](https://arxiv.org/abs/2307.04285)).
-Note that this dataset is open under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) license.
+Note that this dataset is open under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) license. The dataset exists in [HuggingFaceDataset](https://huggingface.co/datasets/Soyoung/HistRED).
+
+```python
+from datasets import load_dataset
+
+dataset = load_dataset("Soyoung/HistRED")
+```
 
 # Dataset Example
 Due to the complexity of the dataset, we replace the dataset preview with an example figure.
