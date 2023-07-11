@@ -1,0 +1,12 @@
+{
+    "Person": 1,
+    "Organization": 2,
+    "Location": 3,
+    "Datetime": 4,
+    "Number": 5,
+    "Book": 6,
+    "Food": 7,
+    "Clothes": 8,
+    "Product": 9,
+    "Other": 10
+}

@@ -1,0 +1,23 @@
+{
+    "None": 0,
+    "alternate_name": 1,
+    "nearby": 2,
+    "per:worn_by": 3,
+    "org:member_of": 4,
+    "per:position held": 5,
+    "per:child": 6,
+    "per:sibling": 7,
+    "per:other_family": 8,
+    "per:enemy": 9,
+    "per:friend": 10,
+    "per:date_of_birth": 11,
+    "per:date_of_death": 12,
+    "per:place_of_birth": 13,
+    "per:place_of_death": 14,
+    "per:place_of_residence": 15,
+    "per:country_of_citizenship": 16,
+    "loc:functions_as": 17,
+    "loc:famous_for": 18,
+    "product:provided_by": 19,
+    "others": 20
+}
