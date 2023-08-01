@@ -10,8 +10,14 @@ size_categories:
 - 1K<n<10K
 ---
 
-This is the official code for **[HistRED: A Historical Document-Level Relation Extraction Dataset](https://aclanthology.org/2023.acl-long.180/)** (ACL 2023 Long paper, [arXiv](https://arxiv.org/abs/2307.04285)).
-Note that this dataset is open under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) license. The dataset exists in [HuggingFaceDataset](https://huggingface.co/datasets/Soyoung/HistRED).
+This is the official code for **HistRED: A Historical Document-Level Relation Extraction Dataset** (ACL 2023).
+All materials related to this paper can be found here.
+- [ACL Anthology](https://aclanthology.org/2023.acl-long.180/): Official proceeding publication
+- [Virtual-ACL 2023](https://virtual2023.aclweb.org/paper_P536.html#slides): You can view papers, posters, and presentation slides.
+- [arXiv](https://arxiv.org/abs/2307.04285): This is the camera-ready version, which is a key part of this paper.
+
+Note that this dataset is open under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) license. 
+The dataset exists in [HuggingFaceDataset](https://huggingface.co/datasets/Soyoung/HistRED).
 
 ```python
 from datasets import load_dataset
